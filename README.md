@@ -2,6 +2,7 @@
 ![KakaoTalk_20240110_135857998](https://github.com/eggzuxi/eggzuxi01/assets/129067046/7eb1f8cf-2d4e-4836-9177-c3ab63b8e7d9)
 
 hihihi안녕하세염해피해피
+2차수정
 <!--
 **eggzuxi/eggzuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
